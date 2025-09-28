@@ -1,3 +1,5 @@
 [console_scripts]
-moveturtle = package.TurtleArt:main
+heart = package.Heart:main
+integral = package.integ:main
+spiral = package.spiral:main
 

@@ -24,7 +24,9 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'moveturtle = package.TurtleArt:main'
+            'spiral = package.spiral:main',
+            'integral = package.integ:main',
+            'flower = package.HeartsFlower:main'
         ],
     },
 )

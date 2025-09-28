@@ -8,8 +8,10 @@ setup.py
 ../../build/package/package.egg-info/requires.txt
 ../../build/package/package.egg-info/top_level.txt
 ../../build/package/package.egg-info/zip-safe
-package/TurtleArt.py
+package/Heart.py
 package/__init__.py
+package/integ.py
+package/spiral.py
 resource/package
 test/test_copyright.py
 test/test_flake8.py

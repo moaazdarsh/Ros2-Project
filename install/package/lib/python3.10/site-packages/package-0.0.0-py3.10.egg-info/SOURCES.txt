@@ -8,7 +8,7 @@ setup.py
 ../../build/package/package.egg-info/requires.txt
 ../../build/package/package.egg-info/top_level.txt
 ../../build/package/package.egg-info/zip-safe
-package/Heart.py
+package/HeartsFlower.py
 package/__init__.py
 package/integ.py
 package/spiral.py

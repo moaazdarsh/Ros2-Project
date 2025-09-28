@@ -1,0 +1,24 @@
+[3.957s] Invoking command in '/home/mo3az/RosProject/src/package': PYTHONPATH=/home/mo3az/RosProject/build/package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mo3az/RosProject/install/package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/package build --build-base /home/mo3az/RosProject/build/package/build install --record /home/mo3az/RosProject/build/package/install.log --single-version-externally-managed install_data
+[4.529s] running egg_info
+[4.531s] writing ../../build/package/package.egg-info/PKG-INFO
+[4.533s] writing dependency_links to ../../build/package/package.egg-info/dependency_links.txt
+[4.533s] writing entry points to ../../build/package/package.egg-info/entry_points.txt
+[4.534s] writing requirements to ../../build/package/package.egg-info/requires.txt
+[4.535s] writing top-level names to ../../build/package/package.egg-info/top_level.txt
+[4.586s] reading manifest file '../../build/package/package.egg-info/SOURCES.txt'
+[4.589s] writing manifest file '../../build/package/package.egg-info/SOURCES.txt'
+[4.589s] running build
+[4.592s] running build_py
+[4.592s] copying package/TurtleArt.py -> /home/mo3az/RosProject/build/package/build/lib/package
+[4.599s] running install
+[4.602s] running install_lib
+[4.604s] copying /home/mo3az/RosProject/build/package/build/lib/package/TurtleArt.py -> /home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package
+[4.608s] byte-compiling /home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package/TurtleArt.py to TurtleArt.cpython-310.pyc
+[4.630s] running install_data
+[4.631s] running install_egg_info
+[4.634s] removing '/home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package-0.0.0-py3.10.egg-info' (and everything under it)
+[4.641s] Copying ../../build/package/package.egg-info to /home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package-0.0.0-py3.10.egg-info
+[4.680s] running install_scripts
+[4.712s] Installing moveturtle script to /home/mo3az/RosProject/install/package/lib/package
+[4.731s] writing list of installed files to '/home/mo3az/RosProject/build/package/install.log'
+[4.837s] Invoked command in '/home/mo3az/RosProject/src/package' returned '0': PYTHONPATH=/home/mo3az/RosProject/build/package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mo3az/RosProject/install/package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/package build --build-base /home/mo3az/RosProject/build/package/build install --record /home/mo3az/RosProject/build/package/install.log --single-version-externally-managed install_data

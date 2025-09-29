@@ -1,0 +1,26 @@
+[1.478s] Invoking command in '/home/mo3az/RosProject/src/package': PYTHONPATH=/home/mo3az/RosProject/build/package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mo3az/RosProject/install/package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/package build --build-base /home/mo3az/RosProject/build/package/build install --record /home/mo3az/RosProject/build/package/install.log --single-version-externally-managed install_data
+[1.863s] running egg_info
+[1.865s] writing ../../build/package/package.egg-info/PKG-INFO
+[1.866s] writing dependency_links to ../../build/package/package.egg-info/dependency_links.txt
+[1.867s] writing entry points to ../../build/package/package.egg-info/entry_points.txt
+[1.867s] writing requirements to ../../build/package/package.egg-info/requires.txt
+[1.867s] writing top-level names to ../../build/package/package.egg-info/top_level.txt
+[1.871s] reading manifest file '../../build/package/package.egg-info/SOURCES.txt'
+[1.876s] writing manifest file '../../build/package/package.egg-info/SOURCES.txt'
+[1.877s] running build
+[1.877s] running build_py
+[1.877s] copying package/integ.py -> /home/mo3az/RosProject/build/package/build/lib/package
+[1.878s] running install
+[1.878s] running install_lib
+[1.880s] copying /home/mo3az/RosProject/build/package/build/lib/package/integ.py -> /home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package
+[1.882s] byte-compiling /home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package/integ.py to integ.cpython-310.pyc
+[1.883s] running install_data
+[1.884s] running install_egg_info
+[1.887s] removing '/home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.897s] Copying ../../build/package/package.egg-info to /home/mo3az/RosProject/install/package/lib/python3.10/site-packages/package-0.0.0-py3.10.egg-info
+[1.917s] running install_scripts
+[1.949s] Installing flower script to /home/mo3az/RosProject/install/package/lib/package
+[1.950s] Installing integral script to /home/mo3az/RosProject/install/package/lib/package
+[1.950s] Installing spiral script to /home/mo3az/RosProject/install/package/lib/package
+[1.951s] writing list of installed files to '/home/mo3az/RosProject/build/package/install.log'
+[1.994s] Invoked command in '/home/mo3az/RosProject/src/package' returned '0': PYTHONPATH=/home/mo3az/RosProject/build/package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mo3az/RosProject/install/package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/package build --build-base /home/mo3az/RosProject/build/package/build install --record /home/mo3az/RosProject/build/package/install.log --single-version-externally-managed install_data

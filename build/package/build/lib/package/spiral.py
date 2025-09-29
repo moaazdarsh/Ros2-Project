@@ -10,7 +10,6 @@ class Mover(Node):
     def __init__(self): 
         super().__init__('Mover')
         self.publisher = self.create_publisher(Twist, '/turtle1/cmd_vel', 10)
-        self.timer = self.create_timer(10, self.draw) 
 
     def draw(self):
         msg = Twist()

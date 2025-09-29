@@ -26,7 +26,8 @@ setup(
         'console_scripts': [
             'spiral = package.spiral:main',
             'integral = package.integ:main',
-            'flower = package.HeartsFlower:main'
+            'flower = package.HeartsFlower:main',
+            'phi = package.Phi:main'
         ],
     },
 )

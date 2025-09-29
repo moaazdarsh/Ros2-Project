@@ -1,5 +1,6 @@
 [console_scripts]
 flower = package.HeartsFlower:main
 integral = package.integ:main
+phi = package.Phi:main
 spiral = package.spiral:main
 
